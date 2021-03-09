@@ -1,3 +1,5 @@
 new stuff 2
 
 hello i am typing in this file now
+
+making merging fail
